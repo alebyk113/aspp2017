@@ -1,3 +1,2 @@
 def first_message():
-    print 'welcome'
-    
+    print('welcome')
