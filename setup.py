@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='funniest',
+setup(name='aspp2017',
       version='0.1',
-      description='The funniest joke in the world',
+      description='ASPP2017 example package',
       url='https://github.com/alebyk113/aspp2017.git',
-      author='Flying Circus',
-      author_email='flyingcircus@example.com',
+      author='Ola',
+      author_email='Ola@example.com',
       license='MIT',
-      packages=['funniest'],
+      packages=['aspp2017'],
       zip_safe=False)
