@@ -7,5 +7,5 @@ setup(name='aspp2017',
       author='Ola',
       author_email='Ola@example.com',
       license='MIT',
-      packages=['~/git/aspp2017'],
+      packages=['aspp2017'],
       zip_safe=False)
